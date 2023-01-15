@@ -1,0 +1,9 @@
+.jumbotron {
+  background: linear-gradient(0deg, transparent, rgb(216 204 204 / 49%));
+}
+
+@media screen and (min-width: 900px) {
+  .text-md-dark {
+    color: black !important;
+  }
+}
