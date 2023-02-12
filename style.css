@@ -51,5 +51,9 @@ img:hover {
 }
 
 .hoverlink:hover {
-  color: #79b02c;
+  color: #ffffff;
+}
+
+footer {
+  background-color: #79b02c;
 }
